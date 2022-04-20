@@ -3,8 +3,6 @@
 //this is HSVM which is the probably only method that syn uses
 //feel free to skid just cred 3dsb0y and enjoy
 
-//if you wana help -> SpeedSterKawaii#7758 is my discord!
-
 namespace syn 
 {
 	DWORD InitRL = 0;
